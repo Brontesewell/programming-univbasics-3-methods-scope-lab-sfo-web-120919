@@ -8,7 +8,7 @@ end
 mario
 
 def toadstool
-  puts status
+  puts $status
 end
 
 toadstool
